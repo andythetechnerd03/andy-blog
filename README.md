@@ -40,7 +40,7 @@ AI Engineer, Data Scientist. Senior Year at FPT University. Online Course Bingew
 - Performed complex feature engineering using spatial and temporal data.
 - Developed a model to predict the probability of goal event using 2018-19 Top 5 European Leagues data.
 - Achieved ~ 90% accuracy in predicting the match outcome, with a comprehensive experiment of Machine Learning / Deep Learning models.
-- [Report](assets/projects/Final-Report DSP391m Group 5.pdf)
+- [Report](https://github.com/andythetechnerd03/andythetechnerd03.github.io/blob/main/assets/projects/Final-Report%20DSP391m%20Group%205.pdf)
 
 ### Vietnamese Text Summarization in Poem Format | _January 2024 - April 2024_
 - Developed and fine-tuned a Vistral-7B model for Vietnamese text summarization in five-word poem.
