@@ -64,7 +64,7 @@ Source: [SoccerMatics](https://soccermatics.readthedocs.io/en/latest/lesson2/Geo
 
 ## Awards
 
-**Honor | Issuer | Date**
+**Honor** | **Issuer** | **Date**
 ⭐ Consolation Prize | FPT Edu Research Festival Finale | _Aug 2024_.
 🥈 Silver Medal | Vietnam Mathematical Olympiad - Calculus Section | _Apr 2023_.
 ⭐ Honorable Mention | ACM Provincial Collegiate Programming Contest | _Oct 2023_.
@@ -78,6 +78,7 @@ Source: [SoccerMatics](https://soccermatics.readthedocs.io/en/latest/lesson2/Geo
 
 ## Certificates
 
+Name | Issuer | Date
 **Dataiku Expert AI Consultant** | Dataiku | _Apr 2024_.
 **TensorFlow Developer Certificate** | Google | _Mar 2024_.
 **Advanced Natural Language Processing 04** | New Turing Institute | _Mar 2024_.
