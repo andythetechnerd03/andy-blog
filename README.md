@@ -31,6 +31,7 @@ Likes to do research and application in AI, also likes watching random stuff on 
 
 ## Projects
 ### KAN It Play Flappy Bird | _May 2024 - August 2024_
+![KAN](assets\projects\model.drawio.png)
 - *Role*: Everything.
 - Built a Flappy Bird game-playing AI using Reinforcement Learning, but replaces traditional Multi-Layer Perceptron (MLP) with **Kolmogorov-Arnold Network (KAN)**.
 - Achieved a equivalent high score with MLP despite the same number of parameters.
@@ -40,16 +41,17 @@ Likes to do research and application in AI, also likes watching random stuff on 
 [Code & Report](https://github.com/andythetechnerd03/KAN-It-Play-Flappy-Bird)
 
 ### Soccer Match Outcome Prediction | _May 2024 - August 2024_
+![Soccer](assets\projects\ManeChanceTrack.webp)
+Source: [SoccerMatics](https://soccermatics.readthedocs.io/en/latest/lesson2/GeometryOfShooting.html)
 - *Role*: Data Scientist.
 - Performed complex feature engineering using **spatial / temporal** data.
 - Developed a model to predict the probability of goal event using 2018-19 Top 5 European Leagues data.
 - Achieved ~ 90% accuracy in predicting the match outcome, with a comprehensive experiment of Machine Learning / Deep Learning models.
 - Tech Stack: Python, scikit-learn, Pandas, Matplotlib, Gradio.
 
-[Report](https://github.com/andythetechnerd03/andythetechnerd03.github.io/blob/main/assets/projects/Final-Report%20DSP391m%20Group%205.pdf)
+[Report](assets/projects/Final-Report%20DSP391m%20Group%205.pdf)
 
 ### Vietnamese Text Summarization in Poem Format | _January 2024 - April 2024_
-<video src="assets\projects\vistralpoem.mp4" width="320" height="240" controls></video>
 
 - *Role*: Team Leader, AI Engineer.
 - Developed and fine-tuned a `Vistral-7B-Chat` LLM model for Vietnamese text summarization in five-word poem.
@@ -58,11 +60,11 @@ Likes to do research and application in AI, also likes watching random stuff on 
 - Further cut down inference time by 10x on CPU using C++ conversion and GGUF quantization.
 - Tech Stack: Python, Hugging Face, PyTorch, C++, Axolotl, Gradio.
 
-[Code](https://github.com/andythetechnerd03/Vietnamese-Text-Summarization-Poem) | [HuggingFace](https://huggingface.co/andythetechnerd03/VistralPoem5) | [Report](https://docs.google.com/document/d/1rF63ua9QoVLhvKQZmrTLT9VwsssyTrZ_/edit?usp=sharing&ouid=101433844092514499329&rtpof=true&sd=true)
+[Code](https://github.com/andythetechnerd03/Vietnamese-Text-Summarization-Poem) | [HuggingFace](https://huggingface.co/andythetechnerd03/VistralPoem5) | [Report](https://docs.google.com/document/d/1rF63ua9QoVLhvKQZmrTLT9VwsssyTrZ_/edit?usp=sharing&ouid=101433844092514499329&rtpof=true&sd=true) | [Demo](assets\projects\vistralpoem.mp4)
 
 ## Awards
 
-Honor | Occasion | Date
+**Honor | Issuer | Date**
 ⭐ Consolation Prize | FPT Edu Research Festival Finale | _Aug 2024_.
 🥈 Silver Medal | Vietnam Mathematical Olympiad - Calculus Section | _Apr 2023_.
 ⭐ Honorable Mention | ACM Provincial Collegiate Programming Contest | _Oct 2023_.
@@ -74,10 +76,10 @@ Honor | Occasion | Date
 ⭐ 30% Scholarship for Entrance Students | FPT University | _Aug 2021_.
 🥈 Second Prize | Ho Chi Minh City-level Excellent Student Competition (English) | _Mar 2021_.
 
-## Cerificates
+## Certificates
 
-- **Dataiku Expert AI Consultant** - Dataiku | _Apr 2024_.
-- **TensorFlow Developer Certificate** - Google | _Mar 2024_.
-- **Advanced Natural Language Processing 04** - New Turing Institute | _Mar 2024_.
-- **Big Data Specialization** - University of California, San Diego | _Aug 2023_.
-- **Deep Learning Specialization** - DeepLearning.AI | _Jun 2023_.
+**Dataiku Expert AI Consultant** | Dataiku | _Apr 2024_.
+**TensorFlow Developer Certificate** | Google | _Mar 2024_.
+**Advanced Natural Language Processing 04** | New Turing Institute | _Mar 2024_.
+**Big Data Specialization** | University of California, San Diego | _Aug 2023_.
+**Deep Learning Specialization** | DeepLearning.AI | _Jun 2023_.
