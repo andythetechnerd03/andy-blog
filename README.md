@@ -1,5 +1,5 @@
 # Portfolio
-AI Engineer, Data Scientist. Senior Year at FPT University. Online Course Bingewatcher.
+Likes to do research and application in AI, also likes watching random stuff on YouTube and buys lots of books but never reads them. Currently working on graduate thesis on medicine.
 
 ## Education
 ### FPT University | _2021 - Present_ 
@@ -20,8 +20,8 @@ AI Engineer, Data Scientist. Senior Year at FPT University. Online Course Bingew
 - Built data pipeline for a large-scale data processing system, complex visualization and predictive modeling (raw data approximately > 10GB).
 - Learned a powerful low-code Data Science platform, which helped the team automate the data pipeline flow and reduce the time to finalize the project.
 - Cut down data processing time by 50% by optimizing the data type, asynchronous programming, and accelerated hardware.
-- Prepared question-answer data pairs and fine-tuned a Large Multimodal Model on face description system.
 - Addressed chatbot limitations such as topic drift and datetime reasoning using clustering and function calling.
+- Prepared question-answer data pairs to fine-tune a Large Multimodal Model on face description system.
 
 ### AI Intern @ Quy Nhon AI Center | _September 2023 - December 2023_
 - Trained and evaluated a table recognition model on synthetically generated data.
@@ -34,12 +34,14 @@ AI Engineer, Data Scientist. Senior Year at FPT University. Online Course Bingew
 - Built a Flappy Bird game-playing AI using Reinforcement Learning, but replaces traditional Multi-Layer Perceptron (MLP) with Kolmogorov-Arnold Network (KAN).
 - Achieved a equivalent high score with MLP despite the same number of parameters.
 - Sucessfully merged with the AwesomeKAN repository to showcase awesome KAN projects.
+- Tech Stack: Python, Pygame, PyTorch, Streamlit.
 - [Code](https://github.com/andythetechnerd03/KAN-It-Play-Flappy-Bird)
 
 ### Soccer Match Outcome Prediction | _May 2024 - August 2024_
 - Performed complex feature engineering using spatial and temporal data.
 - Developed a model to predict the probability of goal event using 2018-19 Top 5 European Leagues data.
 - Achieved ~ 90% accuracy in predicting the match outcome, with a comprehensive experiment of Machine Learning / Deep Learning models.
+- Tech Stack: Python, scikit-learn, Pandas, Matplotlib.
 - [Report](https://github.com/andythetechnerd03/andythetechnerd03.github.io/blob/main/assets/projects/Final-Report%20DSP391m%20Group%205.pdf)
 
 ### Vietnamese Text Summarization in Poem Format | _January 2024 - April 2024_
@@ -47,6 +49,7 @@ AI Engineer, Data Scientist. Senior Year at FPT University. Online Course Bingew
 - Utilized prompt engineering to tell a story using pre-existing Vietnamese poems to be used as training and testing data.
 - Optimized training time by seven-fold using various LLM fine-tuning techniques, such as FlashAttention and QLoRA.
 - Further cut down inference time by 10x using C++ conversion and GGUF quantization.
+- Tech Stack: Python, Hugging Face, PyTorch, C++, Axolotl.
 - [Code](https://huggingface.co/andythetechnerd03/VistralPoem5) | [Report](https://docs.google.com/document/d/1rF63ua9QoVLhvKQZmrTLT9VwsssyTrZ_/edit?usp=sharing&ouid=101433844092514499329&rtpof=true&sd=true)
 
 ## Awards
@@ -59,7 +62,7 @@ Four-time Excellent Student | Faculty of Engineering (~ Top 1% of the Faculty) |
 Third Prize | FPT Edu Research Festival Ho Chi Minh City | _May 2023_.
 Runner-Up | TopCV English Contest | _Jun 2022_.
 ⭐ Runner-Up | Hanoi Online Math Modeling Contest | _Sep 2021_.
-FPT University 30\% Scholarship for Entrance Students | _Aug 2021_.
+30% Scholarship for Entrance Students | FPT University | _Aug 2021_.
 Second Prize | Ho Chi Minh City-level Excellent Student Competition (English) | _Mar 2021_.
 
 
