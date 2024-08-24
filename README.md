@@ -49,7 +49,7 @@ Likes to do research and application in AI, also likes watching random stuff on 
 [Report](https://github.com/andythetechnerd03/andythetechnerd03.github.io/blob/main/assets/projects/Final-Report%20DSP391m%20Group%205.pdf)
 
 ### Vietnamese Text Summarization in Poem Format | _January 2024 - April 2024_
-<video src="D:\studying\Coursera\REL301m\Assignment\andythetechnerd03.github.io\assets\projects\vistralpoem.mp4" width="320" height="240" controls></video>
+<video src="assets\projects\vistralpoem.mp4" width="320" height="240" controls></video>
 
 - *Role*: Team Leader, AI Engineer.
 - Developed and fine-tuned a `Vistral-7B-Chat` LLM model for Vietnamese text summarization in five-word poem.
