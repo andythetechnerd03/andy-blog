@@ -13,13 +13,13 @@ Likes to do research and application in AI, also likes watching random stuff on 
 
 ## Work Experience
 ### AI Engineer @ FPT Software AI Center | _August 2024 - Present_
-- Built a system for Non-Disclosure Agreement (NDA) verification using agent system.
+- Built a system for Non-Disclosure Agreement (NDA) verification.
 - Still working... (will update soon)
 
 ### Data Engineer @ FPT Software | _November 2023 - August 2024_
 - Built data pipeline for a large-scale data processing system, complex visualization and predictive modeling (raw data approximately > 10GB).
-- Learned a powerful low-code Data Science platform, which helped the team automate the data pipeline flow and reduce the time to finalize the project.
-- Cut down data processing time by 50% by optimizing the data type, asynchronous programming, and accelerated hardware.
+- Learned and implemented a powerful low-code Data Science platform, which helped the team automate the data pipeline flow and reduce the time to finalize the project.
+- Cut down data processing time and memory footprint by several times by optimizing the data type, asynchronous programming, and accelerated hardware.
 - Addressed chatbot limitations such as topic drift and datetime reasoning using clustering and function calling.
 - Prepared question-answer data pairs to fine-tune a Large Multimodal Model on face description system.
 
@@ -31,38 +31,53 @@ Likes to do research and application in AI, also likes watching random stuff on 
 
 ## Projects
 ### KAN It Play Flappy Bird | _May 2024 - August 2024_
-- Built a Flappy Bird game-playing AI using Reinforcement Learning, but replaces traditional Multi-Layer Perceptron (MLP) with Kolmogorov-Arnold Network (KAN).
+- *Role*: Everything.
+- Built a Flappy Bird game-playing AI using Reinforcement Learning, but replaces traditional Multi-Layer Perceptron (MLP) with **Kolmogorov-Arnold Network (KAN)**.
 - Achieved a equivalent high score with MLP despite the same number of parameters.
 - Sucessfully merged with the AwesomeKAN repository to showcase awesome KAN projects.
 - Tech Stack: Python, Pygame, PyTorch, Streamlit.
-- [Code](https://github.com/andythetechnerd03/KAN-It-Play-Flappy-Bird)
+
+[Code & Report](https://github.com/andythetechnerd03/KAN-It-Play-Flappy-Bird)
 
 ### Soccer Match Outcome Prediction | _May 2024 - August 2024_
-- Performed complex feature engineering using spatial and temporal data.
+- *Role*: Data Scientist.
+- Performed complex feature engineering using **spatial / temporal** data.
 - Developed a model to predict the probability of goal event using 2018-19 Top 5 European Leagues data.
 - Achieved ~ 90% accuracy in predicting the match outcome, with a comprehensive experiment of Machine Learning / Deep Learning models.
-- Tech Stack: Python, scikit-learn, Pandas, Matplotlib.
-- [Report](https://github.com/andythetechnerd03/andythetechnerd03.github.io/blob/main/assets/projects/Final-Report%20DSP391m%20Group%205.pdf)
+- Tech Stack: Python, scikit-learn, Pandas, Matplotlib, Gradio.
+
+[Report](https://github.com/andythetechnerd03/andythetechnerd03.github.io/blob/main/assets/projects/Final-Report%20DSP391m%20Group%205.pdf)
 
 ### Vietnamese Text Summarization in Poem Format | _January 2024 - April 2024_
-- Developed and fine-tuned a Vistral-7B model for Vietnamese text summarization in five-word poem.
+<video src="D:\studying\Coursera\REL301m\Assignment\andythetechnerd03.github.io\assets\projects\vistralpoem.mp4" width="320" height="240" controls></video>
+
+- *Role*: Team Leader, AI Engineer.
+- Developed and fine-tuned a `Vistral-7B-Chat` LLM model for Vietnamese text summarization in five-word poem.
 - Utilized prompt engineering to tell a story using pre-existing Vietnamese poems to be used as training and testing data.
-- Optimized training time by seven-fold using various LLM fine-tuning techniques, such as FlashAttention and QLoRA.
-- Further cut down inference time by 10x using C++ conversion and GGUF quantization.
-- Tech Stack: Python, Hugging Face, PyTorch, C++, Axolotl.
-- [Code](https://huggingface.co/andythetechnerd03/VistralPoem5) | [Report](https://docs.google.com/document/d/1rF63ua9QoVLhvKQZmrTLT9VwsssyTrZ_/edit?usp=sharing&ouid=101433844092514499329&rtpof=true&sd=true)
+- Optimized training time by seven-fold using various LLM fine-tuning techniques, such as FlashAttention, QLoRA, etc.
+- Further cut down inference time by 10x on CPU using C++ conversion and GGUF quantization.
+- Tech Stack: Python, Hugging Face, PyTorch, C++, Axolotl, Gradio.
+
+[Code](https://github.com/andythetechnerd03/Vietnamese-Text-Summarization-Poem) | [HuggingFace](https://huggingface.co/andythetechnerd03/VistralPoem5) | [Report](https://docs.google.com/document/d/1rF63ua9QoVLhvKQZmrTLT9VwsssyTrZ_/edit?usp=sharing&ouid=101433844092514499329&rtpof=true&sd=true)
 
 ## Awards
 
-Consolation Prize | FPT Edu Research Festival Finale | _Aug 2024_.
-⭐ Silver Medal | Vietnam Mathematical Olympiad - Calculus Section | _Apr 2023_.
-Honorable Mention | ACM Provincial Collegiate Programming Contest | _Oct 2023_.
-🌟 Most Outstanding Student | Faculty of Engineering - FPT University (~ Top <0.1% of the Faculty) | _Sep 2023_.
-Four-time Excellent Student | Faculty of Engineering (~ Top 1% of the Faculty) | _Spring 2022, Fall 2022, Spring 2023, Summer 2024 Semesters_.
-Third Prize | FPT Edu Research Festival Ho Chi Minh City | _May 2023_.
-Runner-Up | TopCV English Contest | _Jun 2022_.
-⭐ Runner-Up | Hanoi Online Math Modeling Contest | _Sep 2021_.
-30% Scholarship for Entrance Students | FPT University | _Aug 2021_.
-Second Prize | Ho Chi Minh City-level Excellent Student Competition (English) | _Mar 2021_.
+Honor | Occasion | Date
+⭐ Consolation Prize | FPT Edu Research Festival Finale | _Aug 2024_.
+🥈 Silver Medal | Vietnam Mathematical Olympiad - Calculus Section | _Apr 2023_.
+⭐ Honorable Mention | ACM Provincial Collegiate Programming Contest | _Oct 2023_.
+🥇 Most Outstanding Student | Faculty of Engineering - FPT University (~ Top <0.1% of the Faculty) | _Sep 2023_.
+⭐ 4x Excellent Student | Faculty of Engineering (~ Top 1% of the Faculty) | _Spring 2022, Fall 2022, Spring 2023, Summer 2024 Semesters_.
+🥉 Third Prize | FPT Edu Research Festival Ho Chi Minh City | _May 2023_.
+🥈 Runner-Up | TopCV English Contest | _Jun 2022_.
+🥈 Runner-Up | Hanoi Online Math Modeling Contest | _Sep 2021_.
+⭐ 30% Scholarship for Entrance Students | FPT University | _Aug 2021_.
+🥈 Second Prize | Ho Chi Minh City-level Excellent Student Competition (English) | _Mar 2021_.
 
+## Cerificates
 
+- **Dataiku Expert AI Consultant** - Dataiku | _Apr 2024_.
+- **TensorFlow Developer Certificate** - Google | _Mar 2024_.
+- **Advanced Natural Language Processing 04** - New Turing Institute | _Mar 2024_.
+- **Big Data Specialization** - University of California, San Diego | _Aug 2023_.
+- **Deep Learning Specialization** - DeepLearning.AI | _Jun 2023_.
