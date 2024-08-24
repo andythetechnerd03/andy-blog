@@ -1,6 +1,5 @@
 # Portfolio
-AI Engineer, Data Scientist. Final Year at FPT University. Online Course Bingewatcher. </br>
-Research Interests: NLP, Computer Vision, Reinforcement Learning, and Data Engineering. </br>
+AI Engineer, Data Scientist. Senior Year at FPT University. Online Course Bingewatcher.
 
 ## Education
 ### FPT University | _2021 - Present_ 
@@ -14,7 +13,7 @@ Research Interests: NLP, Computer Vision, Reinforcement Learning, and Data Engin
 
 ## Work Experience
 ### AI Engineer @ FPT Software AI Center | _August 2024 - Present_
-- Built a system for NDA verification.
+- Built a system for Non-Disclosure Agreement (NDA) verification using agent system.
 - Still working... (will update soon)
 
 ### Data Engineer @ FPT Software | _November 2023 - August 2024_
@@ -31,18 +30,36 @@ Research Interests: NLP, Computer Vision, Reinforcement Learning, and Data Engin
 - Turned model into a containerized REST API for easy deployment.
 
 ## Projects
+### KAN It Play Flappy Bird | _May 2024 - August 2024_
+- Built a Flappy Bird game-playing AI using Reinforcement Learning, but replaces traditional Multi-Layer Perceptron (MLP) with Kolmogorov-Arnold Network (KAN).
+- Achieved a equivalent high score with MLP despite the same number of parameters.
+- Sucessfully merged with the AwesomeKAN repository to showcase awesome KAN projects.
+- [Code](https://github.com/andythetechnerd03/KAN-It-Play-Flappy-Bird)
+
+### Soccer Match Outcome Prediction | _May 2024 - August 2024_
+- Performed complex feature engineering using spatial and temporal data.
+- Developed a model to predict the probability of goal event using 2018-19 Top 5 European Leagues data.
+- Achieved ~ 90% accuracy in predicting the match outcome, with a comprehensive experiment of Machine Learning / Deep Learning models.
+- [Report](assets/projects/Final-Report DSP391m Group 5.pdf)
+
+### Vietnamese Text Summarization in Poem Format | _January 2024 - April 2024_
+- Developed and fine-tuned a Vistral-7B model for Vietnamese text summarization in five-word poem.
+- Utilized prompt engineering to tell a story using pre-existing Vietnamese poems to be used as training and testing data.
+- Optimized training time by seven-fold using various LLM fine-tuning techniques, such as FlashAttention and QLoRA.
+- Further cut down inference time by 10x using C++ conversion and GGUF quantization.
+- [Code](https://huggingface.co/andythetechnerd03/VistralPoem5) | [Report](https://docs.google.com/document/d/1rF63ua9QoVLhvKQZmrTLT9VwsssyTrZ_/edit?usp=sharing&ouid=101433844092514499329&rtpof=true&sd=true)
 
 ## Awards
 
-- Consolation Prize | FPT Edu Research Festival Finale | _Aug 2024_.
-- :star2: Silver Medal | Vietnam Mathematical Olympiad - Calculus Section | _Apr 2023_.
-- Honorable Mention | ACM Provincial Collegiate Programming Contest | _Oct 2023_.
-- :star: Most Outstanding Student of the Faculty of Engineering - FPT University (~ Top <0.1\% of the Faculty) | _Sep 2023_.
-- Four-time Excellent Student of the Faculty of Engineering | _Spring 2022, Fall 2022, Spring 2023, Summer 2024 Semesters_ (~ Top 1% of the Faculty, Similar to _Dean's List_).
-- Third Prize | FPT Edu Research Festival Ho Chi Minh City | _May 2023_.
-- Runner-Up | TopCV English Contest | _Jun 2022_.
-- :star2: Runner-Up | Hanoi Online Math Modeling Contest | _Sep 2021_.
-- FPT University 30\% Scholarship for Entrance Students | _Aug 2021_.
-- Second Prize | Ho Chi Minh City-level Excellent Student Competition (English) | _Mar 2021_.
+Consolation Prize | FPT Edu Research Festival Finale | _Aug 2024_.
+⭐ Silver Medal | Vietnam Mathematical Olympiad - Calculus Section | _Apr 2023_.
+Honorable Mention | ACM Provincial Collegiate Programming Contest | _Oct 2023_.
+🌟 Most Outstanding Student | Faculty of Engineering - FPT University (~ Top <0.1% of the Faculty) | _Sep 2023_.
+Four-time Excellent Student | Faculty of Engineering (~ Top 1% of the Faculty) | _Spring 2022, Fall 2022, Spring 2023, Summer 2024 Semesters_.
+Third Prize | FPT Edu Research Festival Ho Chi Minh City | _May 2023_.
+Runner-Up | TopCV English Contest | _Jun 2022_.
+⭐ Runner-Up | Hanoi Online Math Modeling Contest | _Sep 2021_.
+FPT University 30\% Scholarship for Entrance Students | _Aug 2021_.
+Second Prize | Ho Chi Minh City-level Excellent Student Competition (English) | _Mar 2021_.
 
 
