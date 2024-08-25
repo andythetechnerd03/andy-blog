@@ -24,10 +24,27 @@ Likes to do research and application in AI, also likes watching random stuff on 
 - Prepared question-answer data pairs to fine-tune a Large Multimodal Model on face description system.
 
 ### AI Intern @ Quy Nhon AI Center | _September 2023 - December 2023_
-- Trained and evaluated a table recognition model on synthetically generated data.
+- Trained and evaluated a table recognition model on synthetically generated data, plus Streamlit application demo on Docker.
 - Developed and published a Python package for table recognition and data synthesis tool.
 - Handled and peer-reviewed 100+ OCR and KIE image labeling images per day (as part of ML project).
 - Turned model into a containerized REST API for easy deployment.
+
+### AI Bootcamp Student @ Cinnamon AI | _May 2023 - August 2023_
+- Successfully completed a 3-month intensive Full-Stack AI Bootcamp through various exercises and final project.
+- Exercises include:
+    - Model Compression using Quantization and Pruning. [code](https://github.com/andythetechnerd03/Compressing-GoogleNet)
+    - Building a Basic Calculator web application using React and Bootstrap. [code](https://github.com/andythetechnerd03/simple-calculator-app).
+    - GitHub / GitHub Action and Docker.
+    - Data Version Control - DVC.
+    - BERT model fine-tuning.
+- Final Project: Deployment of 3D Body Pose Estimation and Motion Capture using [FrankMocap](https://github.com/facebookresearch/frankmocap) on a web-based application on AWS. [code](https://github.com/vhbaoduy/motion_capture).
+
+### YouTuber @ DNATech | _2013 - 2023_
+- Created and edited videos on technology, smartphones, and shared hacking tutorials.
+- In 2023, the channel also served as a platform for teaching Mathematics for Machine Learning to FPT University students. [Playlist](https://youtube.com/playlist?list=PLvt7Q4KDA-3wpG5Q__9QrjykAFx_m_jGE&si=Qw8JivWoqAA48T48)
+- Reached 1.9K subscribers and over 100k views.
+- Link: [DNATech](https://www.youtube.com/@dnatech8524).
+
 
 ## Projects
 ### KAN It Play Flappy Bird | _May 2024 - August 2024_
@@ -69,12 +86,20 @@ Source: [SoccerMatics](https://soccermatics.readthedocs.io/en/latest/lesson2/Geo
 🥈 Silver Medal | Vietnam Mathematical Olympiad - Calculus Section | _Apr 2023_.
 ⭐ Honorable Mention | ACM Provincial Collegiate Programming Contest | _Oct 2023_.
 🥇 Most Outstanding Student | Faculty of Engineering - FPT University (~ Top <0.1% of the Faculty) | _Sep 2023_.
-⭐ 4x Excellent Student | Faculty of Engineering (~ Top 1% of the Faculty) | _Spring 2022, Fall 2022, Spring 2023, Summer 2024 Semesters_.
+⭐ 4x Excellent Student | Faculty of Engineering (~ Top 1% of the Faculty) | _Spring 2022, Fall 2022, Spring 2023, Summer 2024_.
 🥉 Third Prize | FPT Edu Research Festival Ho Chi Minh City | _May 2023_.
 🥈 Runner-Up | TopCV English Contest | _Jun 2022_.
 🥈 Runner-Up | Hanoi Online Math Modeling Contest | _Sep 2021_.
 ⭐ 30% Scholarship for Entrance Students | FPT University | _Aug 2021_.
 🥈 Second Prize | Ho Chi Minh City-level Excellent Student Competition (English) | _Mar 2021_.
+
+## Publications
+
+Coming soon...
+<!-- **Title** | **Journal** | **Date**
+**A Comprehensive Study on the Impact of Data Augmentation on Image Classification** | IEEE Transactions on Image Processing | _Apr 2024_.
+**A Survey on the Application of Deep Learning in Medical Image Analysis** | Journal of Medical Imaging | _Mar 2024_. -->
+
 
 ## Certificates
 
@@ -84,3 +109,5 @@ Name | Issuer | Date
 **Advanced Natural Language Processing 04** | New Turing Institute | _Mar 2024_.
 **Big Data Specialization** | University of California, San Diego | _Aug 2023_.
 **Deep Learning Specialization** | DeepLearning.AI | _Jun 2023_.
+
+
