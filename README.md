@@ -126,11 +126,13 @@ Coming soon...
 
 ## Certificates
 
+I have a lot more, but these are just a few notable ones.
+
 **Name** | **Issuer** | **Date** | **Link**
-**Dataiku Expert AI Consultant** | Dataiku | _Apr 2024_ | [Link](https://verify.skilljar.com/c/xrs49wj9sm7d).
-**TensorFlow Developer Certificate** | Google | _Mar 2024_ | [Link](https://www.credential.net/9b445af0-b4d2-4dae-b2e8-0e9d07467d8c#gs.65l5z3).
-**Advanced Natural Language Processing 04** | New Turing Institute | _Mar 2024_.
-**Big Data Specialization** | University of California, San Diego | _Aug 2023_.
-**Deep Learning Specialization** | DeepLearning.AI | _Jun 2023_.
+**Dataiku Expert AI Consultant** | Dataiku | _Apr 2024_ | [Link](https://verify.skilljar.com/c/xrs49wj9sm7d)
+**TensorFlow Developer Certificate** | Google | _Mar 2024_ | [Link](https://www.credential.net/9b445af0-b4d2-4dae-b2e8-0e9d07467d8c#gs.65l5z3)
+**Advanced Natural Language Processing 04** | New Turing Institute | _Mar 2024_ | [Link](assets/certificates/vietai_nlp.jpg)
+**Big Data Specialization** | University of California, San Diego | _Aug 2023_ | [Link](https://www.coursera.org/account/accomplishments/specialization/certificate/AY7NHEZ3KFFA)
+**Deep Learning Specialization** | DeepLearning.AI | _Jun 2023_ | [Link](https://www.coursera.org/account/accomplishments/specialization/certificate/62V4UCBGSLAJ)
 
 
