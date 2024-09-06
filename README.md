@@ -49,9 +49,8 @@ Likes to do research and application in AI, also likes watching random stuff on 
 ## Projects
 ### KAN It Play Flappy Bird | _May 2024 - August 2024_
 ![KAN](assets\projects\model.drawio.png)
-- Built a Flappy Bird game-playing AI using Reinforcement Learning, but replaces traditional Multi-Layer Perceptron (MLP) with **Kolmogorov-Arnold Network (KAN)**.
-- Achieved a equivalent high score with MLP despite the same number of parameters.
-- Sucessfully merged with the AwesomeKAN repository to showcase awesome KAN projects.
+- Built a Flappy Bird game-playing AI using Reinforcement Learning, but replaces traditional Multi-Layer Perceptron (MLP) with **Kolmogorov-Arnold Network (KAN)**. Achieved faster convergence and equivalent high score.
+- Sucessfully merged with the [AwesomeKAN](https://github.com/mintisan/awesome-kan) repository which showcases awesome KAN projects.
 - *Tech Stack*: Python, Pygame, PyTorch, Streamlit.
 
 [Code & Report](https://github.com/andythetechnerd03/KAN-It-Play-Flappy-Bird)
@@ -62,7 +61,6 @@ Source: [SoccerMatics](https://soccermatics.readthedocs.io/en/latest/lesson2/Geo
 - *Role*: Data Scientist.
 - Performed complex feature engineering using **spatial / temporal** data.
 - Developed a model to predict the probability of goal event using 2018-19 Top 5 European Leagues data.
-- Achieved ~ 90% accuracy in predicting the match outcome, with a comprehensive experiment of Machine Learning / Deep Learning models.
 - *Tech Stack*: Python, scikit-learn, Pandas, Matplotlib, Gradio.
 
 [Report](assets/projects/Final-Report%20DSP391m%20Group%205.pdf)
@@ -105,21 +103,17 @@ Source: [SoccerMatics](https://soccermatics.readthedocs.io/en/latest/lesson2/Geo
 ## Awards
 
 **Honor** | **Issuer** | **Date**
-⭐ Consolation Prize | FPT Edu Research Festival Finale | _Aug 2024_.
-⭐ 4x Excellent Student | Faculty of Engineering (~ Top 1% of the Faculty) | _Spring 2022, Fall 2022, Spring 2023, Summer 2024_.
-⭐ Honorable Mention | ACM Provincial Collegiate Programming Contest | _Oct 2023_.
-🥇 Most Outstanding Student | Faculty of Engineering - FPT University (~ Top <0.1% of the Faculty) | _Sep 2023_.
-🥉 Third Prize | FPT University HCM Campus Research Competition | _May 2023_.
+⭐ Consolidation Prize (Top 10) | FPT Edu Research Festival Finale | _Aug 2024_.
+⭐ 4x Excellent Student (Top 1%) | Faculty of Engineering - FPT University | _Spring 2022, Fall 2022, Spring 2023, Summer 2024_.
+🥇 Most Outstanding Student (Top 0.1%) | Faculty of Engineering - FPT University | _Sep 2023_.
 🥈 Silver Medal | Vietnam Mathematical Olympiad - Calculus Section | _Apr 2023_.
 🥈 Runner-Up | TopCV English Contest | _Jun 2022_.
 🥈 Runner-Up | Hanoi Online Math Modeling Contest | _Sep 2021_.
-⭐ 30% Scholarship for Entrance Students | FPT University | _Aug 2021_.
 🥈 Second Prize | Ho Chi Minh City-level Excellent Student Competition (English) | _Mar 2021_.
 
 ## Publications
 	
 [1] Van Phuc Phan, Dat Nguyen Minh, **An Dinh Ngoc**, and Huy Phan Thanh. “Rx Strategist: Prescription Verification Using LLM Agents System,” September 5, 2024. [paper](https://arxiv.org/abs/2409.03440v1).
-
 
 
 ## Certificates
