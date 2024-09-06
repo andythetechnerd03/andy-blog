@@ -117,11 +117,9 @@ Source: [SoccerMatics](https://soccermatics.readthedocs.io/en/latest/lesson2/Geo
 🥈 Second Prize | Ho Chi Minh City-level Excellent Student Competition (English) | _Mar 2021_.
 
 ## Publications
+	
+[1] Van Phuc Phan, Dat Nguyen Minh, **An Dinh Ngoc**, and Huy Phan Thanh. “Rx Strategist: Prescription Verification Using LLM Agents System,” September 5, 2024. [paper](https://arxiv.org/abs/2409.03440v1).
 
-Coming soon...
-<!-- **Title** | **Journal** | **Date**
-**A Comprehensive Study on the Impact of Data Augmentation on Image Classification** | IEEE Transactions on Image Processing | _Apr 2024_.
-**A Survey on the Application of Deep Learning in Medical Image Analysis** | Journal of Medical Imaging | _Mar 2024_. -->
 
 
 ## Certificates
